@@ -15,7 +15,7 @@
 
 
 ### Glad to see you here!  
-🧑‍💻 I'm a 26-year-old web developer who enjoys creating things for the web.
+🧑‍💻 I'm a 27-year-old web developer who enjoys creating things for the web.
 
 🔬 I love to learn and experiment. Despite my preference for the front end, I enjoy solving algorithmic tasks in my spare time. I'm also one of those oddballs who use VIM.
 
@@ -48,19 +48,4 @@
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-</div>  
-
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=latrovalievioan&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=latrovalievioan&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>
-<br />
+</div>
