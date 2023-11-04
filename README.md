@@ -21,13 +21,7 @@
 
 🎻 When I'm not at the computer, you can find me playing jazz on my violin.
 
-🎙️ I am currently employed as a web engineer at Smule, Inc.  
-  
-
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=21yftpr5eyxsmjgv3t2jkzfpi&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=true)  
-
-<br/>  
-
+🎙️ I am currently employed as a web engineer at Smule, Inc.    
 
 ## Languages and Tools  
 <div align="center">  
