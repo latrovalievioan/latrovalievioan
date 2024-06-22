@@ -15,4 +15,4 @@
 
 🎻 When I'm not at the computer, you can find me playing jazz on my violin.
 
-🎙️ I am currently employed as a web engineer at Smule, Inc.    
+🎙️ I am currently employed as a frontend developer at LucidLink.    
