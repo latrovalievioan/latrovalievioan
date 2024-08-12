@@ -9,7 +9,7 @@
 </a>
 
 ### Glad to see you here!  
-🧑‍💻 I'm a 27-year-old web developer who enjoys creating things for the web.
+🧑‍💻 I'm a 28-year-old web developer who enjoys creating things for the web.
 
 🔬 I love to learn and experiment. Despite my preference for the front end, I enjoy solving algorithmic tasks in my spare time. I'm also one of those oddballs who use VIM.
 
